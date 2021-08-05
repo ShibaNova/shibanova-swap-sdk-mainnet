@@ -1204,10 +1204,9 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
 
-"@pancakeswap-libs/pancake-swap-core@^0.1.0":
+"@pancakeswap-libs/pancake-swap-core@shibanova/shibanova-swap-core":
   version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@pancakeswap-libs/pancake-swap-core/-/pancake-swap-core-0.1.0.tgz#6957f1fa02170531a2ffbf95f2c0e145e9d21bc2"
-  integrity sha512-2jYiD1Ec3xAbP4JTa/Ozylx0xI4VwC7diCm5ak4AtGrIRhfRLSanaZSQdVpLigUnIFszma/4nVWtt3cup4Poxw==
+  resolved "https://codeload.github.com/shibanova/shibanova-swap-core/tar.gz/f06892fa53733459c8bb8b47e5be1d34a51c84a9"
   dependencies:
     truffle "^5.1.41"
     truffle-flattener "^1.4.4"

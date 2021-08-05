@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/aleksandar409/shibanovaswap-sdk.git",
+  "repository": "https://github.com/shibanova/shibanova-swap-sdk-mainnet.git",
   "keywords": [
     "pancakeswap",
     "ethereum"
@@ -23,7 +23,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@pancakeswap-libs/pancake-swap-core": "^0.1.0",
+    "@pancakeswap-libs/pancake-swap-core": "shibanova/shibanova-swap-core",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
